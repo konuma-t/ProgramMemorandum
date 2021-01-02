@@ -179,7 +179,7 @@ git --version
 ### 参考サイト  
 ---  
 
-[^1]: \^1『Webエンジニアの仕事見聞録』  
+[^1]: \^1 『Webエンジニアの仕事見聞録』  
 コアサーバーでSSHやsftp接続を行う方法  
 [https://engineer-milione.com/create/coreserver-ssh.html](https://engineer-milione.com/create/coreserver-ssh.html)  
 [^2]: \^2 『WEBマスターの知恵ブログ』  
