@@ -177,15 +177,15 @@ git --version
 
 ---
 ### 参考サイト
-[^1]:『Webエンジニアの仕事見聞録』』  
+[^1]: \^1『Webエンジニアの仕事見聞録』  
 コアサーバーでSSHやsftp接続を行う方法  
 [https://engineer-milione.com/create/coreserver-ssh.html](https://engineer-milione.com/create/coreserver-ssh.html)  
- [^2]:『WEBマスターの知恵ブログ』  
+ [^2]: \^2 『WEBマスターの知恵ブログ』  
 CORESERVERにgitをインストールする方法  
 [https://webmaster.chielog.com/git/156.html](https://webmaster.chielog.com/git/156.html)  
-[^3]:『Qiita@chihiro』  
+[^3]: \^3 『Qiita@chihiro』  
 configure, make, make install とは何か  
 [https://qiita.com/chihiro/items/f270744d7e09c58a50a5](https://qiita.com/chihiro/items/f270744d7e09c58a50a5)  
-[^4]:『Qiita@yunzeroin』  
+[^4]: \^4 『Qiita@yunzeroin』  
 [Linux]環境変数の読み込み順番  
 [https://qiita.com/yunzeroin/items/480a3a677f78a57ac52f](https://qiita.com/yunzeroin/items/480a3a677f78a57ac52f)  
